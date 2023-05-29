@@ -1,0 +1,8 @@
+github.com/aldarisbm/memory v0.0.0-20230528023616-e164c76c0e1a h1:m6CssWkWmcS0yCS/axVyuzAKw0KyGPUJDwa+n0cvl6c=
+github.com/aldarisbm/memory v0.0.0-20230528023616-e164c76c0e1a/go.mod h1:YFWOJV8153LDtNoLyTN7cjdasBLoWc04cOh1IIHO5HU=
+github.com/aldarisbm/memory v0.0.0-20230529163951-82d9f44fd7a1 h1:pscjFXA2+ogblmpuGZ5qHtWiqAJ3K79pr9lHOIoZe3k=
+github.com/aldarisbm/memory v0.0.0-20230529163951-82d9f44fd7a1/go.mod h1:YFWOJV8153LDtNoLyTN7cjdasBLoWc04cOh1IIHO5HU=
+github.com/google/uuid v1.3.0 h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=
+github.com/google/uuid v1.3.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/mattn/go-sqlite3 v1.14.16 h1:yOQRA0RpS5PFz/oikGwBEqvAWhWg5ufRz4ETLjwpU1Y=
+github.com/mattn/go-sqlite3 v1.14.16/go.mod h1:2eHXhiwb8IkHr+BDWZGa96P6+rkvnG63S2DGjv9HUNg=
